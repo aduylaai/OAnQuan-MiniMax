@@ -12,4 +12,6 @@ Giải nén file OAnQuan.zip.
 
 Mở NetBeans, chọn File > Open Project.
 
-Duyệt tới thư mục vừa giải nén và mở dự án để bắt đầu làm việc.
+Duyệt tới thư mục vừa giải nén và mở dự án để bắt đầu chỉnh sửa.
+
+Happy Coding!
